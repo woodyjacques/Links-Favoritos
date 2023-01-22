@@ -1,0 +1,1 @@
+Es una aplicación web para guardar tus enlaces favoritos.
